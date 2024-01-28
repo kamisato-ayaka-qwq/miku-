@@ -1,7 +1,8 @@
 {"rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://kamisato-ayaka-qwq.github.io/mikutap-master/index.html"
+      "destination": "https://kamisato-ayaka-qwq.github.io/mikutap-master/
+    "
     }
   ]
 }
